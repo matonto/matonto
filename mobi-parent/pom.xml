@@ -68,7 +68,7 @@
         <guice.version>4.1.0</guice.version>
         <poi.version>3.14_1</poi.version>
         <opencsv.version>4.3.2</opencsv.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-codec.version>1.10</commons-codec.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
